@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Holdinalt/ksi-prediction/static/css/main.31d6cfe0.css",
-    "main.js": "/Holdinalt/ksi-prediction/static/js/main.bb9fdec9.js",
-    "index.html": "/Holdinalt/ksi-prediction/index.html",
-    "main.bb9fdec9.js.map": "/Holdinalt/ksi-prediction/static/js/main.bb9fdec9.js.map"
+    "main.css": "/ksi-prediction/static/css/main.31d6cfe0.css",
+    "main.js": "/ksi-prediction/static/js/main.bb9fdec9.js",
+    "index.html": "/ksi-prediction/index.html",
+    "main.bb9fdec9.js.map": "/ksi-prediction/static/js/main.bb9fdec9.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
