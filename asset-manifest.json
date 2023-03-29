@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/ksi-prediction/static/css/main.31d6cfe0.css",
-    "main.js": "/ksi-prediction/static/js/main.bb9fdec9.js",
+    "main.css": "/ksi-prediction/static/css/main.93f81392.css",
+    "main.js": "/ksi-prediction/static/js/main.3f5384c6.js",
     "index.html": "/ksi-prediction/index.html",
-    "main.bb9fdec9.js.map": "/ksi-prediction/static/js/main.bb9fdec9.js.map"
+    "main.93f81392.css.map": "/ksi-prediction/static/css/main.93f81392.css.map",
+    "main.3f5384c6.js.map": "/ksi-prediction/static/js/main.3f5384c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.bb9fdec9.js"
+    "static/css/main.93f81392.css",
+    "static/js/main.3f5384c6.js"
   ]
 }
