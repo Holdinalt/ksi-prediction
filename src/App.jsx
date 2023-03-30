@@ -1,4 +1,4 @@
-import styles from './App.module.css';
+import styles from './App.module.scss';
 import {DragDropContext, Draggable, Droppable} from "react-beautiful-dnd";
 import {useState} from "react";
 import {PopUp} from "./components/PopUp/PopUp";
@@ -42,12 +42,6 @@ function App() {
     }
 
     return (
-        // items.map(text => (
-        //     <>
-        //         <span>{text}</span>
-        //         <br/>
-        //     </>
-        // ))
       <>
           <DragDropContext onDragEnd={onDragEnd}>
               <Droppable droppableId="droppable" >
